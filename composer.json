@@ -1,0 +1,14 @@
+{
+    "name": "arturadib/strapdown",
+    "type": "library",
+    "description": "A sensible Markdown parser for javascript",
+    "keywords": [
+        "markdown",
+        "text processing",
+        "ast"
+    ],
+    "license": "MIT",
+    "authors": [
+        "Artur Adib"
+    ]    
+}
